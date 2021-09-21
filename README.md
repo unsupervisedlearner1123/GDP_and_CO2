@@ -1,4 +1,4 @@
-# GDP_and_CO2
+# GDP_and_CO2 2016 CLarissa
 
 First Git exercise in IDS 721
 Hola!
